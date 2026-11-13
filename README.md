@@ -1,5 +1,7 @@
 # log-level-counter
 
+[![Run pytest](https://github.com/EazyCeezy/log-level-counter/actions/workflows/tests.yml/badge.svg)](https://github.com/EazyCeezy/log-level-counter/actions/workflows/tests.yml)
+
 A small Python tool that counts INFO, WARN, and ERROR lines in a log file, with pytest tests.
 
 ## What it does
