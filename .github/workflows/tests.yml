@@ -1,4 +1,6 @@
-name: tests
+name: Run pytest
+
+run-name: Run pytest tests on ${{ github.ref_name }}
 
 on: [push]
 
